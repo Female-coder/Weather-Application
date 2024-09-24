@@ -1,11 +1,11 @@
 # Weather App Project
 
-This project is a simple weather app that allows users to search for the current weather conditions of a specific location.
+This project is a straightforward weather application that enables users to look up the current weather conditions for a specific location.
 
 ## Features
 
-- Search for weather conditions by location name or zip code
-- View current temperature, humidity, wind speed, and weather description
+-Search for weather information by entering a location name or postal code.
+-Check the current temperature, humidity levels, wind speed, and detailed weather conditions.
 
 ## Technologies Used
 
@@ -15,19 +15,19 @@ This project is a simple weather app that allows users to search for the current
 - OpenWeatherMap API
 
 ## Project Description
-The project description can be found in [Google Slide](https://docs.google.com/presentation/d/1TC3yYABROA1QKfgsI_H-qeBrKcYp7jxzqfmLDYcShxc/edit#slide=id.g29123c1e0b9_4_17).
+The project description can be found in [Google Slide]
 
 ## Getting Started
 
 To get started with the project, follow these steps:
 
-1. Open this link [HERE](https://toludaniels.github.io/Weather-App/).
+1. Open this link [HERE](https://github.com/Female-coder/Weather-Application).
 2. Enter a location name or zip code in the search bar and click the search button
 3. View the current weather conditions for the specified location
 
 ## API Key
+This project utilizes the OpenWeatherMap API to fetch weather information. To access the API, you'll need to get an API key from the OpenWeatherMap website. Once you've obtained your API key, update the API_KEY variable in the script.js file by replacing it with your own key.
 
-This project uses the OpenWeatherMap API to retrieve weather data. To use the API, you will need to obtain an API key from the OpenWeatherMap website. Once you have obtained an API key, replace the `API_KEY` variable in the `script.js` file with your own API key.
 
 
 
